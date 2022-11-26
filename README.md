@@ -1,4 +1,4 @@
-# Hey, I'm [Dean!](https://github.com/D34NM/)
+# Hello there, I'm [Dean!](https://github.com/D34NM/)
 
 One of my drivers in life is learning and knowledge sharing. Current focus is all things distributed.
 
