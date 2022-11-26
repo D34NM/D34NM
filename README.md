@@ -10,5 +10,5 @@ What is occupying my thoughts these days:
 - Clean code
 
 <p align="center">
-  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=D34NM&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/D34NM/github-readme-stats"><img alt="D34NM's Github Stats" src="https://github-readme-stats.vercel.app/api?username=D34NM&count_private=true&show_icons=true&theme=dracula"/></a>
 </p>
