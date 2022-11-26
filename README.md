@@ -9,4 +9,4 @@ What is occupying my thoughts these days:
 - API design
 - Clean code
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=D34NM&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=D34NM&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
