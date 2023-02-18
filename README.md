@@ -5,6 +5,6 @@ One of my drivers in life is learning and knowledge sharing. Current focus is al
 What is occupying my thoughts these days:
 
 - Message driven architecture
-- Domain Driven Design
+- Quality driven development
 - API design
 - Clean code
