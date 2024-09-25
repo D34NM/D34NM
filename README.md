@@ -1,3 +1,4 @@
+```bash
 $ cat hello.txt
 
 Hello there, I'm [Dean](https://deanamite.dev)!
@@ -26,3 +27,4 @@ Get in Touch
 - Blog: [deanamite.dev](https://deanamite.dev)
 
 Feel free to reach out if you want to collaborate on exciting projects or chat about tech!
+```
