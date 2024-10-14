@@ -10,9 +10,8 @@ $ cat thoughts.txt
 
 ***What is occupying my thoughts these days:***
 - ***_Message-driven architecture_***
-- ***_Quality-driven development_***
 - ***_API design_***
-- ***_Clean code_***
+- ***_Distributed systems_***
 
 :wavy_dash: cat about_me.txt
 
