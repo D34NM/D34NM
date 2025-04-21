@@ -9,7 +9,7 @@
 $ cat thoughts.txt
 
 ***What is occupying my thoughts these days:***
-- ***_Message-driven architecture_***
+- ***_Event-driven architecture_***
 - ***_API design_***
 - ***_Distributed systems_***
 
