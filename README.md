@@ -89,20 +89,6 @@ And many more...
 - 📝 Writing about anything and everything
 - 🎓 Mentoring developers
 
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Dean's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=D34NM&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- This section can be automatically updated with your latest blog posts -->
-<!-- BLOG-POST-LIST:END -->
-
 ## 🤝 Let's Connect!
 
 <div align="center">
