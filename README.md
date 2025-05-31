@@ -10,6 +10,16 @@
 
 </div>
 
+## 📝 Latest Blog Posts from deanamite.dev
+
+<div align="center">
+
+<!-- BLOG-POST-LIST:START -->
+<!-- This section will show the latest 5 blog posts from deanamite.dev -->
+<!-- BLOG-POST-LIST:END -->
+
+</div>
+
 ## 🚀 About Me
 
 I'm a passionate software developer driven by **continuous learning** and **knowledge sharing**. My current focus revolves around building robust, scalable distributed systems and sharing insights with the developer community.
