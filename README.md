@@ -104,12 +104,3 @@ I'm always excited to collaborate on interesting projects, discuss distributed s
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deanmilojevic/)
 
 </div>
-
----
-
-<div align="center">
-
-⭐ **Star** some repositories if you find them interesting!
-
-</div>
-
