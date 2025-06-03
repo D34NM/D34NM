@@ -79,12 +79,6 @@ $ cat current_focus.txt
 
 </div>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=D34NM&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
 ## 🎯 Current Projects & Interests
 
 - 🔥 Building event-driven systems
