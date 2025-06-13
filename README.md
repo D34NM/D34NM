@@ -92,7 +92,7 @@ $ cat current_focus.txt
 
 I'm always excited to collaborate on interesting projects, discuss distributed systems, or chat about the latest in tech!
 
-[![Blog](https://img.shields.io/badge/Portfolio-deanamite.dev-blue?style=for-the-badge&logo=globe)](https://deanamite.dev)
+[![Blog](https://img.shields.io/badge/Blog-deanamite.dev-blue?style=for-the-badge&logo=globe)](https://deanamite.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-D34NM-black?style=for-the-badge&logo=github)](https://github.com/D34NM)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:hello@deanamite.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deanmilojevic/)
