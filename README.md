@@ -29,11 +29,11 @@ $ cat current_focus.txt
 
 <div align="center">
 
-| 🏗️ **Architecture** | 🔗 **Integration** | 📈 **Scalability** |
-|:---:|:---:|:---:|
-| Event-driven systems | API design patterns | Distributed computing |
-| Microservices | Message queues | Performance optimization |
-| System design | Service mesh | Cloud-native solutions |
+| 🏗️ **Architecture** | 🔗 **Integration** |
+|:---:|:---:|
+| Event-driven systems | API design patterns |
+| Microservices | Message queues |
+| System design | Service mesh |
 
 </div>
 
