@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Developer+%26+Tech+Enthusiast;Passionate+about+Distributed+Systems;Always+Learning+%26+Building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Developer+%26+Tech+Enthusiast;Always+Learning+%26+Building)](https://git.io/typing-svg)
 
 [![Website](https://img.shields.io/badge/Website-deanmilojevic.com-blue?style=flat-square&logo=globe)](https://deanmilojevic.com)
 [![GitHub followers](https://img.shields.io/github/followers/D34NM?style=flat-square&logo=github)](https://github.com/D34NM)
