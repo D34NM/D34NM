@@ -61,13 +61,6 @@ $ cat current_focus.txt
 
 </div>
 
-## 🎯 Current Projects & Interests
-
-- 🔥 Building event-driven systems
-- 🌐 Contributing to open-source
-- 📝 Writing about anything and everything
-- 🎓 Mentoring developers
-
 ## 🤝 Let's Connect!
 
 <div align="center">
